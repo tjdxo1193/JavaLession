@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaLession:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaLession_jar</output-path>
+    <root id="archive" name="JavaLession.jar">
+      <element id="module-output" name="JavaLession" />
+      <element id="extracted-dir" path="D:/JAVA/mariadb-java-client-2.7.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="mariadb-java-client-2.7.1" />
+    </root>
+  </artifact>
+</component>
